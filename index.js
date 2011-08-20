@@ -1,1 +1,1 @@
-module.exports = require('./lib/node-fb-signed-request');
+module.exports = require('./lib/node-fb-signed-request.js');
