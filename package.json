@@ -1,7 +1,7 @@
 {
     "name": "node-fb-signed-request",
     "description": "parser for facebook signed-request",
-    "version" : "0.0.5",
+    "version" : "0.0.8",
     "author": "Roman Drapeko <roman.drapeko@gmail.com>",
     "dependencies": {},
     "keywords": ["facebook", "signed request"],
